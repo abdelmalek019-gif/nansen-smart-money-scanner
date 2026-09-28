@@ -1,0 +1,8 @@
+.env
+*.env
+__pycache__/
+*.pyc
+scanner.log
+signals.json
+*_backup*
+scanner_before_*.py
